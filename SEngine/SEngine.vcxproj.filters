@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GasolinnEngine">
+      <UniqueIdentifier>{0bb39b4e-0686-41f8-a3bf-767d56c8d1cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\System">
+      <UniqueIdentifier>{52a200a8-7d32-4b8d-b004-a2f63a59f6d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Engine">
+      <UniqueIdentifier>{a9ce1d75-55e3-44e9-843a-5cf3ada19810}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Scene">
+      <UniqueIdentifier>{4dfd610e-f8e3-4127-b576-94bca3928317}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Scene\SceneManager">
+      <UniqueIdentifier>{b7aaa2bb-3e15-4ffc-8638-d0af4d92213f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Object">
+      <UniqueIdentifier>{47175403-75fd-4f45-b8d9-6defba8087b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Function">
+      <UniqueIdentifier>{b88923cb-1ebd-4c87-905c-6a66166858e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Function\Math">
+      <UniqueIdentifier>{e930353f-c58f-47f5-88fc-65a72c7392f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Function\Collision">
+      <UniqueIdentifier>{27c060a1-d635-4662-a272-85b2bf139f22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Function\Vector">
+      <UniqueIdentifier>{cebf4b59-c250-47a4-a511-cbf7ce985480}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Camera">
+      <UniqueIdentifier>{f1c78175-cdcf-4450-a39f-19596262fb29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Collider">
+      <UniqueIdentifier>{6bba6fab-33a6-4776-a4ab-6235d73ae9d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Structs">
+      <UniqueIdentifier>{17c24959-169d-433d-8e8f-9e56c3380959}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Function\String">
+      <UniqueIdentifier>{95560795-4064-4311-8f57-fa23a18c90a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\ResourceManager">
+      <UniqueIdentifier>{336ead6e-1293-4e39-8379-0ec229f47fd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Function\Timer">
+      <UniqueIdentifier>{43d0dfbc-4da2-4713-8b0d-bff69acd6da1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Input">
+      <UniqueIdentifier>{8de9a0ec-165a-4489-9aad-65fbef7413a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Input\Mouse">
+      <UniqueIdentifier>{2766fd2b-4ebf-4a4b-b696-87a488085083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Input\Keyboard">
+      <UniqueIdentifier>{1c0c64dd-8a05-405d-9168-be81c7c1894d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Input\Keyboard\KeyEvent">
+      <UniqueIdentifier>{b7a2bc90-9855-4b5a-bada-531197a2f1db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\Input\Keyboard\KeyCode">
+      <UniqueIdentifier>{e8759bdc-182c-42bf-8676-b2d8c57bc628}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\UI">
+      <UniqueIdentifier>{13b085be-b16a-49b8-bb99-361ddf6f39cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\UI\Label">
+      <UniqueIdentifier>{79e759fc-47ac-4317-b8b8-b401e07abe9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\UI\Button">
+      <UniqueIdentifier>{d827112a-2a06-4bfa-aa2c-7e2a9ea62f44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\UI\Panel">
+      <UniqueIdentifier>{2fca24bd-86c7-4438-9829-1d554640e215}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\UI\Slider">
+      <UniqueIdentifier>{b0c34455-8dfd-4fa0-bff3-8ef788ed7620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GasolinnEngine\ResourceManager\Texture">
+      <UniqueIdentifier>{eb89b670-2b5e-4995-a6eb-207ae150adb8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="System.cpp">
+      <Filter>GasolinnEngine\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>GasolinnEngine\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>GasolinnEngine\Function\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>GasolinnEngine\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>GasolinnEngine\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>GasolinnEngine\Function\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>GasolinnEngine\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>GasolinnEngine\Scene\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>GasolinnEngine\Function\String</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>GasolinnEngine\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>GasolinnEngine\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>GasolinnEngine\Input\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>GasolinnEngine\Function\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>GasolinnEngine\Input\Keyboard</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyEvent.h">
+      <Filter>GasolinnEngine\Input\Keyboard\KeyEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyEvent.cpp">
+      <Filter>GasolinnEngine\Input\Keyboard\KeyEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>GasolinnEngine\UI\Label</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>GasolinnEngine\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>GasolinnEngine\UI\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="Panel.cpp">
+      <Filter>GasolinnEngine\UI\Panel</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>GasolinnEngine\Function\Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>GasolinnEngine\ResourceManager\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>GasolinnEngine\UI\Slider</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="System.h">
+      <Filter>GasolinnEngine\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>GasolinnEngine\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Structs.h">
+      <Filter>GasolinnEngine\Structs</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>GasolinnEngine\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>GasolinnEngine\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>GasolinnEngine\Function\Vector</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>GasolinnEngine\Function\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>GasolinnEngine\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>GasolinnEngine\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>GasolinnEngine\Function\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Gasolinn.h">
+      <Filter>GasolinnEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>GasolinnEngine\Scene\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
+      <Filter>GasolinnEngine\Function\String</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>GasolinnEngine\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>GasolinnEngine\Input\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>GasolinnEngine\Function\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>GasolinnEngine\Input\Keyboard</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyCode.h">
+      <Filter>GasolinnEngine\Input\Keyboard\KeyCode</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>GasolinnEngine\UI\Label</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>GasolinnEngine\UI\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>GasolinnEngine\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Panel.h">
+      <Filter>GasolinnEngine\UI\Panel</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>GasolinnEngine\ResourceManager\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>GasolinnEngine\UI\Slider</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,187 @@
+﻿  Vector.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(52): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UI.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\ui.cpp(14): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\ui.cpp(25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\ui.cpp(36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\ui.cpp(47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyEvent.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\keyevent.cpp(73): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  Timer.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\timer.cpp(17): warning C4244: '=': 'unsigned __int64'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\timer.cpp(21): warning C4244: '=': 'unsigned __int64'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\timer.cpp(29): warning C4244: '=': 'unsigned __int64'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+  System.cpp
+  String.cpp
+  Slider.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(27): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(57): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(83): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(84): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(85): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(93): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(94): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(101): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(102): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(103): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(104): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(108): warning C4244: '인수': 'double'에서 'Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(118): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(119): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(126): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(127): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(128): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(129): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\slider.cpp(133): warning C4244: '인수': 'double'에서 'Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneManager.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\scene.cpp(53): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ResourceManager.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\resourcemanager.cpp(58): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const std::string'입니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\resourcemanager.cpp(126): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const std::string'입니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\resourcemanager.cpp(170): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const std::string'입니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\resourcemanager.cpp(191): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const std::string'입니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\resourcemanager.cpp(212): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\resourcemanager.cpp(250): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const std::string'입니다.
+  Panel.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(47): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(71): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(73): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(95): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(144): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(151): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(160): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(180): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(190): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(205): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(231): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(232): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(239): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(240): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(241): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(242): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(252): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(253): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(260): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(261): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(262): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(263): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\panel.cpp(267): warning C4244: '인수': 'double'에서 'Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(55): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(56): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(63): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(64): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(65): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(66): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(70): warning C4244: '인수': 'double'에서 'Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(109): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(114): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(118): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(119): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\object.cpp(120): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mouse.cpp
+  Math.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\math.cpp(27): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\math.cpp(48): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\math.cpp(67): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\math.cpp(84): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\math.cpp(89): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\main.cpp(74): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Label.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(93): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(123): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(130): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(130): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(131): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(140): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(141): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(148): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(149): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(150): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(151): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(155): warning C4244: '인수': 'double'에서 'Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\label.cpp(173): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  KeyEvent.h
+  Keyboard.cpp
+  Engine.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\engine.cpp(59): warning C4244: '+=': 'double'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\engine.cpp(64): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Collision.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(52): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(54): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(59): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(64): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(69): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(81): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\collision.cpp(82): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Camera.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\camera.cpp(24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\camera.cpp(25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\camera.cpp(31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\camera.cpp(32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\camera.cpp(37): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\camera.cpp(38): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\camera.cpp(47): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\camera.cpp(49): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Button.cpp
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(42): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\vector.h(56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(55): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(56): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(57): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(65): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(66): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(73): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(74): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(75): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(76): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(80): warning C4244: '인수': 'double'에서 'Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(90): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(95): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\parks\dropbox\gasolinnengine\sengine\button.cpp(100): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+  코드를 생성하고 있습니다...
+Debug\KeyEvent.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  SEngine.vcxproj -> C:\Users\parks\Dropbox\GasolinnEngine\Debug\GasolinnEngine.exe
+  SEngine.vcxproj -> C:\Users\parks\Dropbox\GasolinnEngine\Debug\GasolinnEngine.pdb (Partial PDB)
